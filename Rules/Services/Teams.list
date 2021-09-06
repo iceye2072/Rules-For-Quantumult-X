@@ -1,0 +1,7 @@
+# Teams
+# 请注意，导入此规则将自动创建名为[Teams]的策略组
+host-keyword,teams,Teams
+host-suffix,teams.microsoft.com,Teams
+ip-cidr,52.113.0.0/16,Teams
+ip-cidr,52.114.0.0/16,Teams
+ip-cidr,52.115.0.0/16,Teams
